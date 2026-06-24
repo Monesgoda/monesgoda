@@ -1,9 +1,10 @@
-# ⚡ `whoami`
-Welcome to my target scope. I'm Mones Goda, an 18-year-old Bug Bounty Hunter and Security Researcher operating out of Egypt. While I'm formally building my academic foundation in the PPIS program at Assiut University, my true curriculum is the wild landscape of web security and network penetration testing.
+# ⚡ About Me
 
-I don't just look for vulnerabilities; I hunt them. From deep-dive manual exploitation targeting the OWASP Top 10 to engineering automated reconnaissance pipelines, I thrive on breaking systems to secure them. My methodology combines relentless curiosity with a solid technical stack, allowing me to craft custom payloads, bypass filters, and automate the boring stuff. 
+I am Mones Goda, a dedicated Security Researcher and Bug Bounty Hunter based in Egypt. Currently advancing my academic foundation in the Public Police Information System (PPIS) program at Assiut University, my expertise lies at the intersection of offensive security, web application testing, and network penetration.
 
-*Let's secure the web, one bug at a time.*
+Driven by a proactive approach to digital security, I specialize in identifying complex vulnerability chains and securing enterprise infrastructures. My methodology combines rigorous manual exploitation of OWASP Top 10 vulnerabilities with the engineering of custom, automated reconnaissance frameworks to streamline security assessments. By leveraging a diverse technical stack to develop tailored payloads and navigate advanced security controls, my objective is to uncover critical flaws before they can be exploited, ultimately helping organizations build more resilient systems. 
+
+*Dedicated to continuous research and proactive threat mitigation.*
 
 ## 📡 Recon & Comms:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/monesgoda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monesgoda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mones-goda-mohamed-b6b131315) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@0xmonesgoda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xmones179170) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@monesgoda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monesgoda321@gmail.com) 
