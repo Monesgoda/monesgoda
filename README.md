@@ -2,7 +2,7 @@
 
 I am Mones Goda, a dedicated Security Researcher and Bug Bounty Hunter based in Egypt. Currently advancing my academic foundation in the Public Police Information System (PPIS) program at Assiut University, my expertise lies at the intersection of offensive security, web application testing, and network penetration.
 
-Driven by a proactive approach to digital security, I specialize in identifying complex vulnerability chains and securing enterprise infrastructures. My methodology combines rigorous manual exploitation of OWASP Top 10 vulnerabilities with the engineering of custom, automated reconnaissance frameworks to streamline security assessments. By leveraging a diverse technical stack to develop tailored payloads and navigate advanced security controls, my objective is to uncover critical flaws before they can be exploited, ultimately helping organizations build more resilient systems. 
+My methodology combines rigorous manual exploitation of OWASP Top 10 vulnerabilities with the engineering of custom, automated reconnaissance frameworks to streamline security assessments
 
 *Dedicated to continuous research and proactive threat mitigation.*
 
